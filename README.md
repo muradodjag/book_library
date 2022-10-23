@@ -10,7 +10,7 @@
 
 ## 📄 API Specs
 
-![swagger-demo](swagger-screen.png)
+![swagger-demo](swagger_screen.png)
 
 ### Book 
 
