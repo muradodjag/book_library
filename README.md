@@ -25,4 +25,4 @@
 <br>
 
 ## Database
-![db_scheme](.jpg)
+![db_scheme](BookDB.drawio.png)
