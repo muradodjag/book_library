@@ -52,7 +52,7 @@ namespace BookLibrary.Controllers
         [HttpGet("top/authors")]
         public async Task<IActionResult> GetTopAuthors()
         {
-            var top_authors = _context.Books.OrderByDescending(t => t.Authors.Count).Take(10);
+            var top_authors = _context.Books.OrderByDescending(t => t.Authors.Count).Take(5);
             if (top_authors == null)
             {
                 return NotFound($"Book not found");
@@ -65,7 +65,7 @@ namespace BookLibrary.Controllers
         [HttpGet("top/genres")]
         public async Task<IActionResult> GetTopGenres()
         {
-            var top_genres =  _context.Books.OrderByDescending(t => t.Genres.Count).Take(10); ;
+            var top_genres =  _context.Books.OrderByDescending(t => t.Genres.Count).Take(5); ;
             if (top_genres == null)
             {
                 return NotFound($"Book not found");
