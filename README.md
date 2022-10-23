@@ -1,9 +1,16 @@
 # book_library
 
+## Prerequisites:
+
+- .NET 6.0
+- PostgreSQL
+- EF
 
 <br>
 
 ## 📄 API Specs
+
+![swagger-demo](swagger_screen.png)
 
 ### Book 
 
