@@ -23,3 +23,5 @@
 | **POST**    | Register user and get Bearer token for authorization           | `register`             |
 
 <br>
+
+## Database
