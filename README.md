@@ -10,6 +10,8 @@
 
 ## 📄 API Specs
 
+![swagger-demo](swagger-screen.png)
+
 ### Book 
 
 | HTTP Method | Use                            | Endpoint                |
