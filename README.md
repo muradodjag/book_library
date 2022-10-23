@@ -1,5 +1,10 @@
 # book_library
 
+## Prerequisites:
+
+- .NET 6.0
+- PostgreSQL
+- EF
 
 <br>
 
