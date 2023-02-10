@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2oti0GcpZKV7iUeArg7Ot8UIOGJ19cKeoqK+ipLkJj/+cvO4OUHuDDVrbgnx41RNLnor9+gVgpwQC/xyg4gMuw==",
+  "dgSpecHash": "qZInD5Nf2DBzqfeSq7lmZeBUaQdYZaBpQp/ZTJSBNR7uah1LugXseObFkOzhkcZBg33g1Of6eOTkXT4XXms38A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Murad\\source\\repos\\BookLibrary\\BookLibrary\\BookLibrary.csproj",
   "expectedPackageFiles": [
@@ -43,7 +43,11 @@
     "C:\\Users\\Murad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Murad\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
     "C:\\Users\\Murad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\Murad\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Users\\Murad\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
   ],
   "logs": [
     {
