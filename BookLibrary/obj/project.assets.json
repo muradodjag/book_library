@@ -1584,19 +1584,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Murad\\.nuget\\packages\\": {}
+    "C:\\Users\\murad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Murad\\source\\repos\\BookLibrary\\BookLibrary\\BookLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\murad\\Documents\\book_library\\BookLibrary\\BookLibrary.csproj",
       "projectName": "BookLibrary",
-      "projectPath": "C:\\Users\\Murad\\source\\repos\\BookLibrary\\BookLibrary\\BookLibrary.csproj",
-      "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murad\\source\\repos\\BookLibrary\\BookLibrary\\obj\\",
+      "projectPath": "C:\\Users\\murad\\Documents\\book_library\\BookLibrary\\BookLibrary.csproj",
+      "packagesPath": "C:\\Users\\murad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\murad\\Documents\\book_library\\BookLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1678,24 +1678,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1704,7 +1686,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   },
